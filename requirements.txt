@@ -1,0 +1,10 @@
+jupyter
+redis
+langchain
+spacy
+google-cloud-aiplatform
+unstructured
+markdown
+python-dotenv
+rich
+requests
