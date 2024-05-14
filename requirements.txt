@@ -2,7 +2,7 @@ jupyter
 redis
 langchain
 spacy
-google-cloud-aiplatform
+langchain-google-vertexai
 unstructured
 markdown
 python-dotenv
